@@ -5,3 +5,5 @@ This repository contains the basic skeleton for a static web site that can be de
 This site requires the [Bundler gem](http://bundler.io/) to be installed (`gem install bundler`).
 
 To run a local version of the server, run `bundle install`  and `rackup` at a command line prompt. You can then navigate a browser to [localhost:9292](http://localhost:9292) to see the running site.
+
+A small change here.
